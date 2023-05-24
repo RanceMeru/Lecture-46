@@ -7,6 +7,8 @@
         Add("Bobby","Luv");
         Add(50.5, 73.6);
         //They all have the same name but different parameters and this demonstrates method overloading
+
+        Console.WriteLine();//can peak the definition (WriteLine)
     }
     public static void Add(int x , int y )
     {
